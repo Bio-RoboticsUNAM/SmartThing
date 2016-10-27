@@ -1,6 +1,6 @@
 /*
  * Esto es una prueba en GITHUB
- * para la cuenta de SMARTTHINGS
+ * para la cuenta de SMARTTHINGSs
 	*
  *  Copyright 2015 SmartThings
  *
