@@ -2,6 +2,7 @@
  * Esto es una prueba en GITHUB
  * para la cuenta de SMARTTHINGS
  * Agregamos esta linea
+ * Actualizamos desde smartThings developer
  *  Copyright 2015 SmartThings
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
